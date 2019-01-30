@@ -1,4 +1,4 @@
 # lib/inroduction.rb
 
-def introduction
+def introduction(name)
 end
