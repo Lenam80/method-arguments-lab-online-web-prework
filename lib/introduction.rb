@@ -1,4 +1,5 @@
 # lib/inroduction.rb
 
-def introduction(name)
-end
+def introduction(Angie)
+ puts "Hi, my name is #{name}"
+ end
